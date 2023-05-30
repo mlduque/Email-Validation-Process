@@ -1,4 +1,4 @@
-## Email-Validation-Process
+# Email-Validation-Process
 With this program/code, you will be able to validate lists of email addresses directly from a .csv file.
 
 # Usage
@@ -9,7 +9,7 @@ After running the program, it will validate the email addresses and save the res
 - Make sure you have the dnspython library installed (pip install dnspython) to use the updated dns.resolver module.
 - Open your terminal cdm and run (python validate.py) in the same directory as your Python script and yoyr file named "email_input.csv" are. After runing the progam, a new .csv file named "email_list.csv" will be created in the same directory saved with the results of the validation. 
 
-# Contact information:
+## Contact information:
 
 Maria Luisa Duque
 - E-mail: duque.marialuisa@gmail.com
