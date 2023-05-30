@@ -1,7 +1,7 @@
 # Email-Validation-Process
 With this program/code, you will be able to validate lists of email addresses directly from a .csv file.
 
-# Usage
+## Usage
 The program reads the email addresses from a .csv file named "email_input.csv" using the csv.reader module. Each email address in the .csv file should be in a separate row.
 Ensure that you have a file named "email_input.csv" in the same directory as your Python script and populate it with the email addresses you want to validate, each on a separate row.
 After running the program, it will validate the email addresses and save the results to a new .csv file named "email_list.csv" in the same directory.
