@@ -12,6 +12,6 @@ After running the program, it will validate the email addresses and save the res
 # Contact information:
 
 Maria Luisa Duque
-E-mail: duque.marialuisa@gmail.com
-LinkedIn: https://www.linkedin.com/in/marialuisaduque/
-Github: https://github.com/mlduque
+- E-mail: duque.marialuisa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marialuisaduque/
+- Github: https://github.com/mlduque
